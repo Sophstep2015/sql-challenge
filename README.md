@@ -2,13 +2,13 @@
     Employee SQL
     
      A.   Resources
-     
             1. department.csv source file 
             2. dept_emp.csv source file
             3. dept_manager.csv source file
             4. employees.csv source file
             5. salaries.csv source file
             6. title.csv source file
+            
      B.   SQL_Script_&_ERD 
             1. ERD png file
             2. SQL_Schema.sql code file

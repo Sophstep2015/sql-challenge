@@ -1,5 +1,6 @@
 # sql-challenge
     Employee SQL
+    
      A.   Resources
             1. department.csv source file 
             2. dept_emp.csv source file
